@@ -1,0 +1,16 @@
+# Byte-compiled Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+
+# Flask uploads folder
+uploads/
+
+# VS Code settings
+.vscode/
+
+# Large model files (if you choose to host externally)
+*.h5
